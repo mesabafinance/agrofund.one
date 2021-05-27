@@ -29,7 +29,7 @@ items:
               id: contact
 
     home:
-        heading: We acquire farmland, partner with accomplished farmers and develop industry partnerships to build a specialty crop portfolio
+        heading: We acquire farmland, partner with accomplished farmers, and develop industry partnerships to build a specialty crop portfolio
         intro:
             - Agro Fund One, Limited is an agricultural investment fund targeting the agricultural sector in North, Central and South America. The Fund’s primary focus is on generating competitive risk-adjusted returns while ensuring benefits to all stakeholders across the ecosystems in which we operate.
             - Agro Fund One’s mandate is to grow investor wealth by converting conventional commercial farmland to regenerative as well as developing sustainable indoor farming operations in regions of the world affected by climate change.
@@ -60,32 +60,32 @@ items:
               mail: maria@agrofundone.com
               linkedin: https://www.linkedin.com/in/maria-dyatchyna-8ab61137/
               text: >-
-                  Having an innovative approach and background in IT & business development Maria is a believer in Artificial Intelligence, IoT & Robotics. She is bringing her experience and expertise with the aim to find new European technologies and solutions with the potential for application in Latin America and the US to support Sustainable and Precision agriculture.
+                  Having an innovative approach and background in IT and business development Maria is a believer in Artificial Intelligence, IoT and Robotics. She is bringing her experience and expertise with the aim to find new European technologies and solutions with the potential for application in Latin America and the U.S. to support Sustainable and Precision agriculture.
             - name: Dionas Silva
               title: South American Project Analyst
               img: /assets/img/team/dionas-silva.jpg
               mail: dionas@agrofundone.com
               linkedin: https://www.linkedin.com/in/dionas-silva-1451a8153/
               text: >-
-                  Dionas is an Agronomist from Brazil. He has experience in agricultural development focussed on continuous improvement and innovation. Dionas’ mission is to raise the level of food production in underdeveloped countries in a sustainable and regenerative way.
+                  Dionas is an Agronomist from Brazil. He has experience in agricultural development focused on continuous improvement and innovation. Dionas’ mission is to raise the level of food production in underdeveloped countries in a sustainable and regenerative way.
             - name: Matthew Lessard
               title: Strategic Advisor
               linkedin: https://www.linkedin.com/in/matthew-lessard-4b73ab/
               img: /assets/img/team/matthew-lessard.jpg
               text: >-
-                  Based in Minnesota, Matthew is an executive leader and entrepreneur with over 20 years of business management, financial oversight and analysis, business development, private equity, and international business experience in various countries including the US, Brazil, Mexico, and Europe.
+                  Based in Minnesota, Matthew is an executive leader and entrepreneur with over 20 years of business management, financial oversight and analysis, business development, private equity, and international business experience in various countries including the U.S., Brazil, Mexico, and Europe.
             - name: Matheus Picinin
               title: Marketing Coordinator
               img: /assets/img/team/matheus-picinin.jpg
               mail: matheus@agrofundone.com
               linkedin: https://www.linkedin.com/in/matheus-raslan-a270941b4/
               text: >-
-                  Matheus is a Brazilian Digital Marketer based in Ireland. Matheus’ main role is to build a social media presence for Agro Fund One. In addition he creates visual concepts (pictures and videos) to communicate ideas and concepts related to Agro Fund's investment strategy.
+                  Matheus is a Brazilian Digital Marketer based in Ireland. Matheus’ main role is to build a social media presence for Agro Fund One. In addition, he creates visual concepts (pictures and videos) to communicate ideas and concepts related to Agro Fund's investment strategy.
     about:
         heading: About Agro Fund One
         intro:
-            - As an US based investment fund focused on agriculture, Agro Fund One strives to encourage environmental health, economic growth, and socioeconomic equity. We collaborate with local governments, institutions, and private enterprises to develop land and establish joint ventures in the food sector. We intend to accelerate and support the transition to a more sustainable, healthy, and fair agricultural market.
-            - In Brazil and the United States our fund counts on experienced advisors that have built successful business ventures in both countries as well as a staff of highly skilled individuals that understand conventional farming methods and have the expertise to apply and spread stakeholder capitalism principles. In addition, Agro Fund One continually fosters  relationships with local farmers and stakeholders to build off local knowledge, culturally sensitive technology use, and sound market analysis.
+            - As an U.S. based investment fund focused on agriculture, Agro Fund One strives to encourage environmental health, economic growth, and socioeconomic equity. We collaborate with local governments, institutions, and private enterprises to develop land and establish joint ventures in the food sector. We intend to accelerate and support the transition to a more sustainable, healthy, and fair agricultural market.
+            - In Brazil and the United States our fund counts on experienced advisors that have built successful business ventures in both countries, as well as a staff of highly skilled individuals that understand conventional farming methods and have the expertise to apply and spread stakeholder capitalism principles. In addition, Agro Fund One continually fosters  relationships with local farmers and stakeholders to build off local knowledge, culturally sensitive technology use, and sound market analysis.
         intro_list:
             - Investments into agriculture projects that promote soil health and increase biodiversity
             - Turnaround investments into distressed operations
@@ -103,7 +103,7 @@ items:
                   text: Agro Fund One typically invests in control positions in order to impact financial and operational results. Our strategy is operationally-driven, with a focus on adding value and substantially improving businesses.
                 - heading: We support disruption and innovation
                   img: /assets/img/investment/innovation.jpg
-                  text: "We are committed to addressing real, imminent challenges in the global food and agribusiness sector by championing companies that deliver innovative and meaningful solutions that support the following:"
+                  text: "We are committed to addressing real, imminent challenges in the global food and agribusiness sector by championing companies that deliver innovative and meaningful solutions." # that support the following:
                   list:
                       - Economic Growth
                       - Human rights and fair labor standards
@@ -121,7 +121,7 @@ items:
                   text: By combining our collaborative research-intensive framework with our sector expertise and exclusive international industry relationships, we have been able to identify a number of unique opportunities and unlock attractive growth prospects while maintaining valuation discipline.
                 - heading: We are focused
                   img: /assets/img/investment/focus.jpg
-                  text: Agro Fund One focuses exclusively on the sustainable food supply chain in North, Central and South America. Our professionals are culturally diverse and have passion and unique experience in food and agribusiness, with a demonstrated track record necessary to invest competitively and successfully in the space.
+                  text: Agro Fund One focuses exclusively on the sustainable food supply chain in North, Central, and South America. Our professionals are culturally diverse and have passion and unique experience in food and agribusiness, with a demonstrated track record necessary to invest competitively and successfully in the space.
                 - heading: Build relationships
                   img: /assets/img/investment/relationship.jpg
                   text: Through our investments we seek to develop trusted, long-term relationships that allow the development and achievement of longstanding production and sustainability goals.
@@ -161,12 +161,12 @@ items:
                 - name: "Step 3: Indication of Interest (IoI)"
                   text: "Review and negotiate Purchase or Operating Agreement term sheet. In some situations we elaborate our own investor model in collaboration with our prospect partner."
                 - name: "Step 4: Complete the transaction and begin the management onboarding process"
-                  text: "Establish agreed governance model and start the work. We strive to allowing existing management teams to be fully responsible for day-to-day operations as long as they are meeting the projected financial performance targets and business plan timelines as jointly determined."
+                  text: "Establish agreed governance model and start the work. We strive to allow existing management teams to be fully responsible for day-to-day operations as long as they are meeting the projected financial performance targets and business plan timelines as jointly determined."
 
     portfolio:
         heading: Our Portfolio
         text: >-
-            Between Eastern European offices in Georgia and Ukraine, a trading office scheduled to open mid-2021 in Switzerland, our banking center in Hong Kong, field operations spread over 5 continents, our key Horn of Africa strategy, and our Midwestern headquarters in the United States, <strong>we have built our fund on a truly global reach.</strong>
+            Between Eastern European offices in Georgia and Ukraine, a trading office scheduled to open mid-2021 in Switzerland, our banking center in Hong Kong, field operations spread over 5 continents, our key Horn of Africa strategy, and our midwestern headquarters in the United States, <strong>we have built our fund on a truly global reach.</strong>
         button: More about our Portfolio
         message: Our portfolio companies support the expansion of sustainable agricultural production in regions of the world challenged by social injustices, climate risk, and dependency on food imports. Agro Fund One sees great value to collaborate with a diverse set of co-creators in order to enable broader thinking and innovation towards community regeneration, resiliency, and food production. We want to be part of the creation of the future we believe in.
         view_details: View Details

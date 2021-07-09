@@ -48,16 +48,6 @@ items:
             Agro Fund One cuenta con un equipo de expertos en agricultura y gestión
             de inversiones en todo el mundo.
         items:
-            - name: Guilherme Moreira
-              title: Socio Director
-              img: "/assets/img/team/gui-moreira.jpg"
-              mail: guilherme@agrofundone.com
-              linkedin: https://www.linkedin.com/in/guilhermesvsmoreira/
-              text:
-                  Guilherme es un ingeniero medioambiental brasileño apasionado por el desarrollo
-                  sostenible. Se compromete a garantizar que el impacto de la sostenibilidad
-                  de nuestras inversiones internacionales beneficien realmente a las comunidades
-                  locales, y al mismo tiempo, a respaldar la rentabilidad para los inversores.
             - name: Mark M. Erjavec
               title: Gestor de Fondos
               img: "/assets/img/team/mark-erjavec-hat.jpg"
@@ -68,19 +58,14 @@ items:
                   práctica de las inversiones directas, Mark viaja por el mundo explorando nuevas
                   oportunidades y trabajando para desarrollar relaciones de calidad en nombre
                   de Agro Fund One y para nuestros grupos de interés.
-            - name: Maria Dyatchyna
-              title: Analista de Proyectos Internacionales
-              img: "/assets/img/team/maria-dyatchyna.jpg"
-              mail: maria@agrofundone.com
-              linkedin: https://www.linkedin.com/in/maria-dyatchyna-8ab61137/
-              text:
-                  Con un enfoque innovador y experiencia en TI y desarrollo de negocios,
-                  María cree en la Inteligencia Artificial, IoT y Robótica. Ella está proporcionando
-                  su experiencia y conocimientos con el objetivo de encontrar nuevas tecnologías
-                  y soluciones europeas con el potencial de aplicación en América Latina y los
-                  EE.UU. para apoyar la agricultura sostenible y de precisión.
+            - name: Matthew Lessard
+              linkedin: https://www.linkedin.com/in/matthew-lessard-4b73ab/
+              title: Consultor Estratégico
+              img: /assets/img/team/matthew-lessard.jpg
+              text: >-
+                  Con sede en Minnesota, Matthew es un líder ejecutivo y empresario con más de 20 años de experiencia en gestión empresarial, supervisión y análisis financiero, desarrollo de negocios, capital privado y negocios internacionales en varios países, como Estados Unidos, Brasil, México y Europa.
             - name: Dionas Silva
-              title: Analista de Proyectos de América del Sur
+              title: Analista - América del Sur
               img: "/assets/img/team/dionas-silva.jpg"
               mail: dionas@agrofundone.com
               linkedin: https://www.linkedin.com/in/dionas-silva-1451a8153/
@@ -89,12 +74,13 @@ items:
                   centrado en la mejora continua y la innovación. La misión de Dionas es aumentar
                   el nivel de producción de alimentos en los países subdesarrollados de forma
                   sostenible y regenerativa.
-            - name: Matthew Lessard
-              linkedin: https://www.linkedin.com/in/matthew-lessard-4b73ab/
-              title: Consultor Estratégico
-              img: /assets/img/team/matthew-lessard.jpg
+            - name: Colt DiGiovanni
+              title: Analista - América del Norte
+              img: /assets/img/team/colt-digiovanni.jpg
+              mail: colt@agrofundone.com
+              linkedin: https://www.linkedin.com/in/colt-digiovanni/
               text: >-
-                  Con sede en Minnesota, Matthew es un líder ejecutivo y empresario con más de 20 años de experiencia en gestión empresarial, supervisión y análisis financiero, desarrollo de negocios, capital privado y negocios internacionales en varios países, como Estados Unidos, Brasil, México y Europa.
+                  Colt aporta a Agro Fund One sus conocimientos dentro de la gestión de proyectos y activos, proporcionando a la empresa un análisis detallado de las inversiones, las oportunidades de adquisición y el desarrollo de negocios. Colt estudia actualmente administración de empresas en la Universidad de Colorado. Mientras crecía en Colorado, rodeado de varios parques nacionales y áreas recreativas al aire libre, se ha convertido en un apasionado de la salud general y del medio ambiente.
             - name: Matheus Picinin
               title: Coordinador de Mercadeo
               img: "/assets/img/team/matheus-picinin.jpg"
@@ -315,6 +301,13 @@ items:
                   Agro Fund One tiene la oportunidad de desarrollar instalaciones de cultivo
                   interior en dos emplazamientos que funcionan con energía solar renovable.
         pois:
+            - name: Switzerland
+              content:
+                  - Apertura de la oficina a principios de 2022
+              top: 28%
+              left: 49%
+              top_m: 20%
+              left_m: 47%
             - name: Hong Kong
               content:
                   - Hong Kong - Sede central de Asia
@@ -326,6 +319,7 @@ items:
               content:
                   - Sede central de América del Sur
                   - Desarrollo de la Fazenda Jacob, una granja modelo de agroforestería regenerativa
+                  - <a href="https://www.marvellaurbanfarm.com" target="_blank" rel="noopener">Marvella Urban Farm en Rio de Janeiro</a>
               top: 69%
               left: 34%
               top_m: 58%
@@ -334,8 +328,7 @@ items:
               content:
                   - Minneapolis - Sede central de EE.UU.
                   - Gestión de obras en Minnesota
-                  - <a href="https://www.aerofleetone.com" target="_blank" rel="noopener">Aplicación
-                    aérea de precisión realizada por Aero Fleet One en Dakota del Norte</a>
+                  - <a href="https://www.aerofleetone.com" target="_blank" rel="noopener">Reunir las operaciones de aviación agrícola en toda América</a>
               top: 29%
               left: 21%
               top_m: 21%
@@ -390,3 +383,23 @@ items:
             heading: Programa una reunión
         message:
             heading: Envíenos un mensaje
+        form:
+            iam: Yo soy
+            choose: Elija uno
+            roles:
+                - Inversor
+                - Empresario
+                - Socio comercial
+                - Periodista
+                - Activista
+                - Funcionário del Gobierno
+                - Otro
+            email: Email
+            fname: Nombre
+            lname: Appelido
+            message: Mensage
+            submit: Enviar
+            fields: Los seccíones marcados con <sup>*</sup> son obligatorios.
+            success:
+                heading: Gracias por contactarnos!
+                text: Nos pondremos en contacto con usted en breve.

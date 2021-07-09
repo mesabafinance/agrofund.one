@@ -13,4 +13,4 @@ linkedin: www.linkedin.com/company/aero-fleet-one/
 twitter:
 ---
 
-Como licenciataria de una avanzada carga útil pesada, una tecnología de ala fija procedente de Europa, trabajamos con clientes de toda América del Norte y del Sur para desarrollar la primera flota de vehículos aéreos no tripulados capaz de prestar servicios de aplicación aérea a escala comercial. Con sede en Dakota del Norte, nuestra empresa se centra actualmente en el desarrollo de la flota, la comercialización y el desarrollo de un equipo logístico y de operaciones.
+Aero Fleet One es una empresa enfocada en la consolidación del mercado de la aviación agrícola en América del Norte y del Sur. Mediante el uso estratégico de sinergias y la implementación de tecnologías, estamos utilizando la escala para aumentar el valor de las operaciones individuales en nuestra cartera.

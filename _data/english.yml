@@ -40,13 +40,6 @@ items:
         button: Meet our Team
         intro: Agro Fund One employs a team of experts in agriculture and investment management around the globe.
         items:
-            - name: Guilherme Moreira
-              title: Managing Partner
-              img: /assets/img/team/gui-moreira.jpg
-              mail: guilherme@agrofundone.com
-              linkedin: https://www.linkedin.com/in/guilhermesvsmoreira/
-              text: >-
-                  Guilherme is a Brazilian Environmental Engineer passionate about sustainable development. He is committed to ensure the sustainability impact of our international investments so that they genuinely benefit local communities while ensuring profitability for investors.
             - name: Mark M. Erjavec
               title: Fund Manager
               img: /assets/img/team/mark-erjavec-hat.jpg
@@ -54,26 +47,26 @@ items:
               linkedin: https://www.linkedin.com/in/markerjavec/
               text: >-
                   With the support of a market-leading research team and hands-on management of direct investments, Mark travels the world exploring new opportunities and working to develop quality relationships on behalf of the Agro Fund One and for our stakeholders.
-            - name: Maria Dyatchyna
-              title: International Project Analyst
-              img: /assets/img/team/maria-dyatchyna.jpg
-              mail: maria@agrofundone.com
-              linkedin: https://www.linkedin.com/in/maria-dyatchyna-8ab61137/
-              text: >-
-                  Having an innovative approach and background in IT and business development Maria is a believer in Artificial Intelligence, IoT and Robotics. She is bringing her experience and expertise with the aim to find new European technologies and solutions with the potential for application in Latin America and the U.S. to support Sustainable and Precision agriculture.
-            - name: Dionas Silva
-              title: South American Project Analyst
-              img: /assets/img/team/dionas-silva.jpg
-              mail: dionas@agrofundone.com
-              linkedin: https://www.linkedin.com/in/dionas-silva-1451a8153/
-              text: >-
-                  Dionas is an Agronomist from Brazil. He has experience in agricultural development focused on continuous improvement and innovation. Dionas’ mission is to raise the level of food production in underdeveloped countries in a sustainable and regenerative way.
             - name: Matthew Lessard
               title: Strategic Advisor
               linkedin: https://www.linkedin.com/in/matthew-lessard-4b73ab/
               img: /assets/img/team/matthew-lessard.jpg
               text: >-
                   Based in Minnesota, Matthew is an executive leader and entrepreneur with over 20 years of business management, financial oversight and analysis, business development, private equity, and international business experience in various countries including the U.S., Brazil, Mexico, and Europe.
+            - name: Dionas Silva
+              title: Analyst - South America
+              img: /assets/img/team/dionas-silva.jpg
+              mail: dionas@agrofundone.com
+              linkedin: https://www.linkedin.com/in/dionas-silva-1451a8153/
+              text: >-
+                  Dionas is an Agronomist from Brazil. He has experience in agricultural development focused on continuous improvement and innovation. Dionas’ mission is to raise the level of food production in underdeveloped countries in a sustainable and regenerative way.
+            - name: Colt DiGiovanni
+              title: Analyst - North America
+              img: /assets/img/team/colt-digiovanni.jpg
+              mail: colt@agrofundone.com
+              linkedin: https://www.linkedin.com/in/colt-digiovanni/
+              text: >-
+                  Colt brings his continuing and expanding knowledge within project and asset management to Agro Fund One, providing detailed investment analysis, acquisition opportunities, and business development to the company. Colt is a current junior studying business management at the University of Colorado. While growing up in Colorado surrounded by various national parks and outdoor recreational areas he has become very passionate about general health and the environment.
             - name: Matheus Picinin
               title: Marketing Coordinator
               img: /assets/img/team/matheus-picinin.jpg
@@ -185,6 +178,11 @@ items:
               p: >-
                   Oasis complex of indoor farms producing year round fresh produce grown in the desert utilizing practical, sustainable and affordable design that can be replicated at scale. The fresh produce will be marketed locally and for export through both the shipping port and inland to support the cities of Africa, the fastest growing population in the world.
               href: www.marvellafarms.com
+            - heading: Marvella Urban Farm
+              subheading: Fresh and pesticide-free vegetables grown in the historic center of Rio
+              p: >-
+                  The Marvella Farms project aims to promote the idea of making Rio de Janeiro a food-sovereign city, meaning the majority of fruits and vegetables consumed are grown within the city’s limits. As well as providing education and resources to those looking to get involved in urban farming.
+              href: www.marvellafarms.com
             - heading: Aero Fleet One
               subheading: Precision aero application
               p: >-
@@ -202,6 +200,13 @@ items:
               p: >-
                   Agro Fund One has the opportunity to develop indoor grow facilities in two sites that are powered by renewable solar energy.
         pois:
+            - name: Switzerland
+              content:
+                  - Office opening early 2022
+              top: 28%
+              left: 49%
+              top_m: 20%
+              left_m: 47%
             - name: Hong Kong
               content:
                   - Hong Kong - Asian Headquarter
@@ -213,6 +218,7 @@ items:
               content:
                   - South American Headquarter
                   - Development of Fazenda Jacob, a regenerative agroforestry model farm
+                  - <a href="https://www.marvellaurbanfarm.com" target="_blank" rel="noopener">Marvella Urban Farm in Rio de Janeiro</a>
               top: 69%
               left: 34%
               top_m: 58%
@@ -221,7 +227,7 @@ items:
               content:
                   - Minneapolis, US Headquarter
                   - Site management in Minnesota
-                  - <a href="https://www.aerofleetone.com" target="_blank" rel="noopener">Precision aero application done by Aero Fleet One in North Dakota</a>
+                  - <a href="https://www.aerofleetone.com" target="_blank" rel="noopener">Bringing together ag flying operations throughout the Americas</a>
               top: 29%
               left: 21%
               top_m: 21%
@@ -267,3 +273,23 @@ items:
             heading: Schedule a Meeting
         message:
             heading: Send us a Message
+        form:
+            iam: I am a...
+            choose: Choose one
+            roles:
+                - Investor
+                - Entrepreneur
+                - Business Partner
+                - Journalist
+                - Activist
+                - Government Official
+                - Other
+            email: Email
+            fname: First name
+            lname: Last name
+            message: Message
+            submit: Submit
+            fields: Fields marked with <sup>*</sup> are required.
+            success:
+                heading: Thank You for Reaching Out!
+                text: We will get back to you shortly.

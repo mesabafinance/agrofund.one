@@ -1,10 +1,10 @@
 ---
-title: Marvella Urban Farm project receives support from Rio de Janeiro's turism office
+title: Marvella Urban Farm project receives support from Rio de Janeiro's tourism office
 img: /assets/img/portfolio/muf.jpg
 lang: en
 ---
 
-Rio de Janeiro's Secretaria de Turismo (SETUR), the city's turism office, expressed its support in the development of Marvella Urban Farm. The project includes the redevelopment of a 65,000 sqft area in Rio's historic port district, envisioning an urban farm producing fresh and pesticide-free vegetables directly in the city as well as an urban center promoting education, sustainability, and community development. Agro Fund One is the main project sponsor of Marvella Urban Farm and is looking forward to continuing the development.
+Rio de Janeiro's Secretaria de Turismo (SETUR), the city's tourism office, expressed its support in the development of Marvella Urban Farm. The project includes the redevelopment of a 65,000 sqft area in Rio's historic port district, envisioning an urban farm producing fresh and pesticide-free vegetables directly in the city as well as an urban center promoting education, sustainability, and community development. Agro Fund One is the main project sponsor of Marvella Urban Farm and is looking forward to continuing the development.
 
 <a href="/assets/documents/SETUR-Marvella-Urban-Farm.pdf" target="_blank">Download SETUR's statement</a>
 

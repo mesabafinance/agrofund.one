@@ -38,7 +38,7 @@ site.data.portuguese.items.news %} {% endcase %}
         <div class="col-md-8">
             {% for i in home.intro limit:1 %}
             <p class="lead">{{i}}</p>
-            {% endfor %} {% comment %}
+            {% endfor %}
             <p class="mt-5 text-center">
                 <button
                     class="btn btn-primary btn-lg"
@@ -57,23 +57,22 @@ site.data.portuguese.items.news %} {% endcase %}
                     {{home.button}}
                 </button>
             </p>
-            {% endcomment %}
         </div>
     </div>
-    {% comment %}
+
     <div id="collapseSchedule" class="collapse">
-        <!-- Start of Meetings Embed Script -->
+        <!-- Calendly inline widget begin -->
         <div
-            class="meetings-iframe-container"
-            data-src="https://meetings.hubspot.com/guilherme55?embed=true"
+            class="calendly-inline-widget"
+            data-url="https://calendly.com/dionassilva-/30min"
+            style="min-width: 320px; height: 750px"
         ></div>
         <script
             type="text/javascript"
-            src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"
+            src="https://assets.calendly.com/assets/external/widget.js"
         ></script>
-        <!-- End of Meetings Embed Script -->
+        <!-- Calendly inline widget end -->
     </div>
-    {% endcomment %}
 </section>
 
 <section class="container">

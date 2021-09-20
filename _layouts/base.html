@@ -1,18 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
-{% include head.html %}
+<html lang="{{page.lang}}">
+    {% include head.html %}
 
-<body>
-
-    {% if page.title contains "Language" %}
-    {{content}}
-    {% else %}
-    {% include navbar.html %}
-    <div id="top" class="main mt-5 pt-5"> {{ content }} </div>
-    {% endif %}
-
-    {% include footer.html %}
-
-</body>
-
+    <body>
+        {% if page.title contains "Language" %} {{content}} {% else %} {%
+        include navbar.html %}
+        <div id="top" class="main mt-5 pt-5">{{ content }}</div>
+        {% endif %} {% include footer.html %}
+    </body>
 </html>
